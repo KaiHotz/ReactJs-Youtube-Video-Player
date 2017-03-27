@@ -18,17 +18,17 @@
     "babel-preset-react": "^6.1.18",
     "chai": "^3.5.0",
     "chai-jquery": "^2.0.0",
-    "jquery": "^2.2.1",
-    "jsdom": "^8.1.0",
-    "mocha": "^2.4.5",
-    "webpack": "^1.12.9",
-    "webpack-dev-server": "^1.14.0"
+    "jquery": "^3.2.1",
+    "jsdom": "^9.12.0",
+    "mocha": "^3.2.0",
+    "webpack": "^2.3.2",
+    "webpack-dev-server": "^2.4.2"
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
-    "lodash": "^3.10.1",
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3",
+    "lodash": "^4.17.4",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
     "youtube-api-search": "0.0.5"
   }
 }
