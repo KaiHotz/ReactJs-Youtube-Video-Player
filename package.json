@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "YT Video player with search bar",
   "main": "index.js",
-  "repository": "git@github.com:SpecialKcl/ReactJs-Youtube-Video-Player.git",
+  "repository": "git@github.com:KaiHotz/ReactJs-Youtube-Video-Player.git",
   "author": "",
   "license": "ISC",
   "standard": {
